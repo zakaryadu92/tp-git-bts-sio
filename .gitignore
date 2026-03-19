@@ -1,0 +1,17 @@
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+*.swp
+*.bak
+
+# Fichiers sensibles
+.env
+config/secrets.php
+
+# Build / dépendances
+node_modules/
+dist/
+build/
